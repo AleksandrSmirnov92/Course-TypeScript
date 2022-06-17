@@ -1,4 +1,4 @@
 let a = 1
-let b = 5
-let j = a + b
+let b:number = 5
+let j:number = a + b
 console.log(j)
